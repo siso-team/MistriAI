@@ -1,1 +1,1 @@
-# MistriAI
+# MitraAI
